@@ -1,1 +1,1 @@
-# Stoichiometry-Calculator
+# StoichiometryCalculator
