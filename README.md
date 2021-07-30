@@ -1,12 +1,26 @@
 # StoichiometryCalculator
 
-**Description:** A java-based calculator that helps students with solving stoichiometry problems. 
+**Description:** A stoichiometry calculator to aid in alleviating the sufferings of IGCSE students on arguably one of the most difficult topic of IGCSE Chemistry. 
 
-**Intended Audience:** Students taking IGCSE Chemistry
+**Intended Audience:** Students taking (and suffering with) IGCSE Chemistry 
 
-Instructions for running the program from the command line: 
+
+
+**Features:** The calculator is capable of computing: 
+- Mol given concentration & volume, 
+- Mol given volume of gas at RTP
+- Mol given mass of an element
+- Mol given mol ratio and mass of a compound
+- Mol given the ratio of balanced equation
+- Concentration given mol and volume
+- Volume given mol and concentration
+- Volume given mol of gas at RTP
+- Yield given obtained and actual mass
+- Purity given pure and impure mass
+
+**Instructions for running the program from the command line: **
 1. Clone Repo
-2. Go to the dist folder and type the following: java -jar "HackSchool.jar"
+2. Using the command line, cd to the dist folder and type the following: java -jar "HackSchool.jar"
 
 Date: 2015
-Team WriteCodes: Sai Hou, Sang Gon, Jun, Zi
+Team WriteCodes consists of 4 members: Sai Hou, Sang Gon, Jun Yeol & Zi Nean
