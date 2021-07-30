@@ -4,6 +4,10 @@
 
 **Intended Audience:** Students taking (and suffering with) IGCSE Chemistry 
 
+**Date:** 2015
+
+**Team WriteCodes:** Sai Hou, Sang Gon, Jun Yeol & Zi Nean
+
 
 
 **Features:** The calculator is capable of computing: 
@@ -18,9 +22,7 @@
 - Yield given obtained and actual mass
 - Purity given pure and impure mass
 
-**Instructions for running the program from the command line: **
+**Instructions for running the program from the command line:**
 1. Clone Repo
 2. Using the command line, cd to the dist folder and type the following: java -jar "HackSchool.jar"
 
-Date: 2015
-Team WriteCodes consists of 4 members: Sai Hou, Sang Gon, Jun Yeol & Zi Nean
