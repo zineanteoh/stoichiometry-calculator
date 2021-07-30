@@ -1,18 +1,12 @@
 # StoichiometryCalculator
 
-In order to run the program, Java and Java Runtime Environment is COMPULSORY! 
+**Description:** A java-based calculator that helps students with solving stoichiometry problems. 
 
+**Intended Audience:** Students taking IGCSE Chemistry
 
-1. Google “Java download” and "Java Runtime Environment download" and download the Java and JRE required for your OS
+Instructions for running the program from the command line: 
+1. Clone Repo
+2. Go to the dist folder and type the following: java -jar "HackSchool.jar"
 
-
-2. Download ZIP file of the project in GitHub
- 
-
-3. Unzip the downloaded file, then go to /dist folder
- 
-
-4. Double click on "HackSchool.jar" file to execute program
-
-
-Have fun Chemistree - WriteCodes
+Date: 2015
+Team WriteCodes: Sai Hou, Sang Gon, Jun, Zi
