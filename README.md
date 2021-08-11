@@ -3,7 +3,7 @@
 ## Description 
 A stoichiometry calculator to aid in alleviating the sufferings of IGCSE students on arguably one of the most difficult topic of IGCSE Chemistry. 
 
-Date of Project: 2015
+Hack School Winner of 2015
 
 Team WriteCodes: Sai Hou, Sang Gon, Jun Yeol & Zi Nean
 
